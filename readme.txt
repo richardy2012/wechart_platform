@@ -1,5 +1,5 @@
 
-感谢您使用JeeWeixin
+感谢您使用PHPWeiXin
 
 版本V2.0
 发布时间：20151208
