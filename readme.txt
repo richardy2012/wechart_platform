@@ -16,7 +16,7 @@ weixin program for you
 3. 未经版权所有者授权，禁止将源代码及其衍生品进行出售、发行。
 
 
-PHPWeiXin V2.0 功能
+PHPWeiXin V1.0 功能
 
 1、URL、Token 认证接口
 2、消息接收接口
