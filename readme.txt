@@ -38,4 +38,3 @@ PHPWeiXin V1.0 功能
 
 更多测试功能请关注方官方微信号：weixinpy-com
 
-
